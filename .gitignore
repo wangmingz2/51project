@@ -1,0 +1,23 @@
+# Keil 编译产物
+*.OBJ
+*.LST
+*.M51
+*.plg
+*.lnp
+*.uvgui.*
+*.uvopt
+*.bak
+*.$
+
+# Proteus 备份
+*.DBK
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+# Keil 链接产物（无扩展名）
+/程序/1程序C语言/shj
+
+# 大文件（视频教程不入库）
+视频讲解.mp4
